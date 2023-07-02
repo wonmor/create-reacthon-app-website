@@ -1,2 +1,2 @@
-# create-reacthon-app-website
-A website that contains docs for Create Reacthon App.
+# Snake React Website
+A website that contains docs for Snake React.
